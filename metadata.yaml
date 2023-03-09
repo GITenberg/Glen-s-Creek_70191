@@ -1,0 +1,30 @@
+_repo: Glen-s-Creek_70191
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holmes, Mary Jane
+    alias: Holmes, Mary Jane (Hawes)
+    birthdate: 1825
+    deathdate: 1907
+    gutenberg_agent_id: '1239'
+    url: http://www.gutenberg.org/2009/agents/1239
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Jane_Holmes
+description: ''
+gutenberg_issued: '2023-03-03'
+identifiers:
+  gutenberg: '70191'
+language: en
+pgterms:marc904: https://archive.org/details/cihm_29185
+pgterms:marc905: 20210120211741holmes
+pgterms:marc906: '1878'
+pgterms:marc907: CA
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aCanada :$bJ. Ross Robertson, $c1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Glen's Creek
+url: http://www.gutenberg.org/ebooks/70191
